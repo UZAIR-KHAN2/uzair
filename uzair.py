@@ -16,7 +16,7 @@ except ImportError:
 
     os.system("pip2 install requests")
 
-    os.system("python2 uzair.py")
+    os.system("python2")
 
     os.system("clear")
 
