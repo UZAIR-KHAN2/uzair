@@ -106,8 +106,7 @@ def main_select():
 
         os.system("xdg-open https://www.facebook.com/UZAIRKHANAFRIDI2")
 
-	main()       elif Qm =="0":
-
+	
         os.system("exit")
 
     else:
